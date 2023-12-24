@@ -1,4 +1,4 @@
-let colorPickerContainerElement = document.getElementById("colorPickerContainer");
+            let colorPickerContainerElement = document.getElementById("colorPickerContainer");
             let selectedColorElement = document.getElementById("selectedColor");
             function changeBgToGreyAndUpdateText(){
                 colorPickerContainerElement.style.backgroundColor="#e0e0e0";
