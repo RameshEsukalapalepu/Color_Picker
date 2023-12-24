@@ -1,4 +1,4 @@
-# Color_Picker
+``#Color_Picker
 
 #Instruction:
 #The HTML 'container' element that is wrapping all the HTML elements should have the id "colorPickerContainer".
