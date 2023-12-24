@@ -14,6 +14,6 @@
 by following the above instructions, achieve the given functionality.
 #the background color of the page and the hexcode value in the html 'span' element should change when the html 'button' element is clicked.
 #the background color of the page  and the background color of the clicked HTML 'button' element should be the same.
-# the text in the clicked HTML 'button' element and the text in the HTML 'span'  element  should be the same.
+#the text in the clicked HTML 'button' element and the text in the HTML 'span'  element  should be the same.
 
 try it :)
