@@ -1,0 +1,56 @@
+.colorPickerContainer{
+    background-color: #ffffff;
+    height:100vh;
+}
+
+.colorPickerHeading{
+    font:50px;
+    font-family: "Open Sans";
+    font-weight: 800;
+}
+
+.button{
+    font-family: "Open Sans";
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    margin-bottom: 10px;
+    font-size: 13px;
+    border-radius: 20px;
+}
+
+.button1{
+    background-color: #e0e0e0;
+}
+
+.button2{
+    background-color: #6fcf97;
+}
+
+.button3{
+    background-color: #56ccf2;
+}
+
+.button4{
+    background-color: #bb6bd9;
+}
+
+
+.selectedColor{
+    color:#49a6e9;
+}
+
+.selectedText{
+    background-color: #222222;
+    color: white;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.colorPickerInstruction{
+    font-family: "Open Sans";
+    font-size: 20px;
+}
