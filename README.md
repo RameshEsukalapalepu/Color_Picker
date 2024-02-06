@@ -24,5 +24,3 @@ by following the above instructions, achieve the given functionality.
 
 #the text in the clicked HTML 'button' element and the text in the HTML 'span'  element  should be the same.
 
-try it :)
-# http://127.0.0.1:3000/index.html
